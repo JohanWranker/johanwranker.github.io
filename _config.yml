@@ -68,7 +68,7 @@ author:
   bio    : "#Father #Husband #Embeeded-Software #CyberSecurity #Lerum-Gothenburg-Sweden"
   links:
     - label: "Email"
-      icon: "fa fa-envelope-square fa-lg"
+      icon: "fa fa-envelope-o"
       url: "mailto:info@wranker.org"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
