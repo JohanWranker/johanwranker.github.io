@@ -1,0 +1,133 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Johan Wranker
+email: info@wranker.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Information about Johan Wranker
+twitter_username: jwranker
+github_username: JohanWranker
+minimal_mistakes_skin: dirt
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: CET # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+header:
+  overlay_image: /assets/images/kummel.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  # image_description: "A lake in sunset and some ice"
+  caption: "Ömmern 2022-12-23"
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+author:
+  name   : "Johan Wranker"
+  avatar : "/assets/images/me-wine.jpg"
+  bio    : "#Father #Husband #Embeeded-Software #CyberSecurity #Lerum-Gothenburg-Sweden"
+  links:
+    - label: "Email"
+      icon: "fas fa fa-envelope-o"
+      url: "mailto:info@wranker.org"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodonsweden.se/@Johan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jwranker"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JohanWranker"
+#footer:
+#  links:
+#    - label: "Mastodon"
+#      icon: "fab fa-fw fa-mastodon"
+#      url: "https://mastodonsweden.se/@Johan"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/jwranker"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/JohanWranker"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+atom_feed:
+  hide: true
+
+
+social:
+  type: Person # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/jwranker"
+    - "https://www.facebook.com/johan.wranker"
+    - "https://mastodonsweden.se/@Johan"
+    - "https://github.com/JohanWranker"
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
