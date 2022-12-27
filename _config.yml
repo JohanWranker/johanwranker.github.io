@@ -68,7 +68,7 @@ author:
   bio    : "#Father #Husband #Embeeded-Software #CyberSecurity #Lerum-Gothenburg-Sweden"
   links:
     - label: "Email"
-      icon: "fa fa-envelope-o"
+      icon: "fa fa-envelope fa-lg"
       url: "mailto:info@wranker.org"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
@@ -79,6 +79,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JohanWranker"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/johan.wranker"
 #footer:
 #  links:
 #    - label: "Mastodon"
