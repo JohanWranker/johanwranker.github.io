@@ -1,0 +1,46 @@
+Johan Wranker:
+  name   : "Johan Wranker"
+  avatar : "/assets/images/me-wine.jpg"
+  bio    : "#Father #Husband #Embeeded-Software #CyberSecurity #Lerum-Gothenburg-Sweden"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope fa-lg"
+      url: "mailto:info@wranker.org"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodonsweden.se/@Johan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jwranker"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JohanWranker"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/johan.wranker"
+
+Johan Wranker CV:
+  name   : "Johan Wranker"
+  avatar : "/assets/images/johan-wranker.jpg"
+  bio    : "Ekollonvägen 200, 
+44350 Lerum, 
+Sweden,
+1974-06-20, 
+0708-613124"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope fa-lg"
+      url: "mailto:johan@wranker.org"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodonsweden.se/@Johan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jwranker"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JohanWranker"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/johan.wranker"
+

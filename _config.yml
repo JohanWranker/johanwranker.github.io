@@ -113,6 +113,7 @@ defaults:
       type: pages
     values:
       layout: single
+      author: Johan Wranker
       author_profile: true
 
 atom_feed:
