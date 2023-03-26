@@ -11,12 +11,13 @@ header:
 ## Work
 
 I have been working as an embedded software developer for close to quarter of a century.
-During that time things have changed, in my [Mobitex](www.mobitex.com) years I was part of mobile-internet before that was a word.
-In the year 2000 I had, via Mobitex system, e-mails in my pocket and communicated that way.
-
-At [Volvo Trucks](https://www.volvotrucks.com) I have been working with the software platform within the vehicles and the development tools required for that.
-The automotive business is in a shift from hardware driven industry to an software (innovation) driven as well as the shift to renewable energy.
+At [Volvo Trucks](https://www.volvotrucks.com) I am working with the software platform within the vehicles and the development tools required for that.
+The automotive business is in a shift from hardware industry to a software (innovation) driven in combination with the shift to renewable energy and at the same time a lot of rules are enforced by the society.
 Being part of that journey is inspiring and frustrating.
+
+Starting from 1998 I was part of the the mobile-internet revolution,
+as developer in [Mobitex](www.mobitex.com) system.
+Using that system I had e-mail in my pocket in year 2000 with the [RIM](/assets/images/rim.jpg), it was the first with a true 2-way communication.
 
 ## Internet Hobbies
 
