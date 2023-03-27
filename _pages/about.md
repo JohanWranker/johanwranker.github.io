@@ -22,8 +22,15 @@ Using that system I had e-mail in my pocket in year 2000 with the [RIM](/assets/
 ## Internet Me
 
 ![Statistics of my pod listening](/assets/images/podtrack.svg)
-The statics from the podcast player tell a quite accurate story of my (internet) interests.
-As seen are American politics my reality show, series like [House of Cards](https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)) can not match the real thing.
+The statics from the podcast player tells a quite accurate story of my (internet) interests.
+American politics is my reality show, series like [House of Cards](https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)) can not match the real thing. The twists and turns of the legal fights are quite something to follow.
+
+## AFK topics in short
+
+- Table top games
+- Sailing
+- Digging (for plants)
+- Ice skating
 
 ## Private
 
