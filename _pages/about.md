@@ -19,10 +19,11 @@ Starting from 1998 I was part of the the mobile-internet revolution,
 as developer in [Mobitex](www.mobitex.com) system.
 Using that system I had e-mail in my pocket in year 2000 with the [RIM](/assets/images/rim.jpg), it was the first with a true 2-way communication.
 
-## Internet Hobbies
+## Internet Me
 
-The "Internet me" is interested in Cyber security and the US politics.
-My fascination for the US Election started when Donald J Trump became president and then the US politics got so absurd that it became my reality show, series like [House of Cards](https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)) could not match the real thing. From the politics it has more or less transformed into interest for the legal twists and turns.
+![Statistics of my pod listening](/assets/images/podtrack.svg)
+The statics from the podcast player tell a quite accurate story of my (internet) interests.
+As seen are American politics my reality show, series like [House of Cards](https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)) can not match the real thing.
 
 ## Private
 

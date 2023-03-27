@@ -19,7 +19,7 @@ I have been the lead developer of 3 (generations) of Electronic Control Units (E
 
 Design the overall software architecture and manage the capabilities of the SoC, so all the (10+) cores can work together. Setting the short- and long-term plans for the suppliers- and Volvo-teams to enable the platform of the SoC.
 
-### CI/CD champion
+### CM/CI/CD champion
 
 A day-to-day work as advocate, promoter and enabler for Continuous Integration as well as the Continuous Delivery flow on AB Volvo. The vision is to enable the "Stairway to heaven" workflow (see Chalmers publications). The initial work was on 3-10 ECUs with the setup automation of unit-test, static code validation, integration, code generation and guidelines. During the last years then the focus has been shifted towards the full Volvo CM/CI/CD handling to influence, try-out, define and interface the enterprise and back-office tools used to manage the full Volvo ecosystem.
 
