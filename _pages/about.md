@@ -10,14 +10,12 @@ header:
 
 ## Work
 
-I have been working as an embedded software developer for close to a quarter of a century.
+I have been working as an embedded software developer for close to a quarter of a century.  
 I am working at [Volvo Trucks](https://www.volvotrucks.com) with the software platform within the vehicles and the development tools required for it.
 The automotive business is in a shift from hardware industry to a software (innovation) driven industry. That change is occurring concurrently with the shift to renewable energy and a lot of new regulations (cyber security and functional safety).
 Being part of that journey is inspiring and frustrating.
 
-Starting from 1998 I was part of the mobile-internet revolution,
-as a developer in [Mobitex](www.mobitex.com) system.
-Using Mobitex and a [RIM](/assets/images/rim.jpg) device I had e-mail in my pocket in year 2000. That was revolutionary to have true 2 way communication in a pocketsize device, with a battery that lasted a month.
+Starting from 1998 I was part of the mobile-internet revolution, as a developer in [Mobitex](www.mobitex.com) system. Using Mobitex and a [RIM](/assets/images/rim.jpg) device I had e-mail in my pocket in year 2000. It was revolutionary to have true 2 way communication in a pocketsize device, with a battery that lasted a month.
 
 ## Internet Me
 
