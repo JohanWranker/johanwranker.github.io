@@ -51,4 +51,4 @@ Civilingenjör Chalmers Automatiseringsteknik (M Sc in automation and mechatroni
 |Language| c, c++, cmake, python, groovy, gradle, bash, make
 |BSP/BSW modules| Nvm, OS, RTE, DIO, PWM, ADC, cache handling, ICU, CAN, COM, ...
 |Process| Agile, Scrum, SAFe
-|Drive license| B, BE, C, CE
+|Driving license| B, BE, C, CE
