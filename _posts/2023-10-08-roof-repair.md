@@ -1,7 +1,7 @@
 ---
 title: "Roof repair"
 categories:
-  - Home
+  - Blog
 ---
 ## Tak
 
@@ -12,15 +12,19 @@ För att minska risken för framtida problem så las trekanlist ytterst (minskar
 
 ## Takutsprång
 
-I samband med detta jobb (dvs "nu när det ändå finns ställningar") så målades alla "vitt" dvs takutsprång samt i carporten
+I samband med detta jobb (dvs "nu när det ändå finns ställningar") så målades takutsprång
 
 - Färg: Demidekk ultimate täckfärg - [NCS S1002-Y](https://ncscolour.com/sv/products/s-1002-y)
-
----
 
 ## Hörnbräda
 
 Hörnbräda (syd-ost) byttes.
+
+- Färg: Demidekk ultimate täckfärg - [NCS S1002-Y](https://ncscolour.com/sv/products/s-1002-y)
+
+## Carport
+
+Taket i carporten målas.
 
 - Färg: Demidekk ultimate täckfärg - [NCS S1002-Y](https://ncscolour.com/sv/products/s-1002-y)
 

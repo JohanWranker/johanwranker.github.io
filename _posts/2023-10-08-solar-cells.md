@@ -1,9 +1,10 @@
 ---
 title: "Solar cells"
 categories:
-  - Home
+  - Blog
 ---
 Sun panels installed 2020-10-08 by Blåbyxa bygg.
+Cost 180 000 sek (including government reductions 44 000 sek).  
 Grid approved \<insert date\>
 
 ## Panel

@@ -1,7 +1,7 @@
 ---
 title: "Vehicle Charging"
 categories:
-  - Home
+  - Blog
 ---
 Two identical vehicle chargers installed spring 2021.
 The load balancing (and activation control) are managed by [Enegic](https://enegic.com/) module
