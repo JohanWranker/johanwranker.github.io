@@ -28,7 +28,7 @@ Taket i carporten målas.
 
 - Färg: Demidekk ultimate täckfärg - [NCS S1002-Y](https://ncscolour.com/sv/products/s-1002-y)
 
-## Fönstkarm
+## Fönsterkarm
 
 Det finns färg över, förväntar mig måla de vita karmarna.
 
