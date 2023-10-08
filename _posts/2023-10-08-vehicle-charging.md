@@ -1,17 +1,22 @@
 ---
-title: "Home: Roof repair"
+title: "Vehicle Charging"
 categories:
-  - Blog
+  - Home
 ---
-För att få et säkert tak (innan solpanelerna installerades) så "byttes" takpappen.
-De brädor som fått skador pga att kantplåtarna delat sig byttes.
-Fästen för solpanelen monterades och ovanpå detta las ny takpapp.
-För att minska risken för framtida problem så las trekanlist ytterst (minskar risken att pappen kryper), pappen går runt kanten.
+Two identical vehicle chargers installed spring 2021.
+The load balancing (and activation control) are managed by [Enegic](https://enegic.com/) module
 
----
+## Charger
 
-I samband med detta jobb (dvs det finns ställningar) så målades alla "vitt" dvs takutsprång samt i carporten
+ChargeAmps HALO  
+Model, 11.0 kW  
+*78M position to the left  
+*68M position to the right  
+password: *  
 
----
+Network: HALO_*  
+IP: 192.168.250.1  
 
-Hörnbräda (syd-ost) byttes.
+## Load balancing
+
+- Model: Enegic  

@@ -1,21 +1,25 @@
 ---
-title: "Home: Solar cells"
+title: "Solar cells"
 categories:
-  - Blog
+  - Home
 ---
-Sun panels installed 2020-10-08 by Blåbyxa bygg
+Sun panels installed 2020-10-08 by Blåbyxa bygg.
+Grid approved \<insert date\>
 
----
-Panel: Longi 410w all black x 36
+## Panel
 
----
-Inverter Growatt PV02.009902
-Model MOD 12KTL3-X
-S/N RMHDCKBoH5
-F/W DL1.0
+- Type: Longi 410w all black
+- Units: 36
 
----
-Estimated production:
-PV Generator Energy (AC grid): 12 356 kWh/year
-Peak: 14,76 [kWp](https://hemsol.se/solceller/kw-kwp-markeffekt/)
-Level of Self-sufficiency: 37,7 %
+## Inverter
+
+- Growatt: PV02.009902
+- Model: MOD 12KTL3-X
+- SerialNumber: RMHDCKBoH5
+- Firmware: DL1.0
+
+## Estimated production
+
+- PV Generator Energy (AC grid): 12 356 kWh/year
+- Peak: 14,76 [kWp](https://hemsol.se/solceller/kw-kwp-markeffekt/)
+- Level of Self-sufficiency: 37,7 %
