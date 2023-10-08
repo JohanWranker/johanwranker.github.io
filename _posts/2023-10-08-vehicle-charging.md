@@ -3,7 +3,7 @@ title: "Vehicle Charging"
 categories:
   - Blog
 ---
-Two identical vehicle chargers installed spring 2021.
+Two identical vehicle chargers installed June of 2021 by ALf Ericsson i Lerum Elektriska.
 The load balancing (and activation control) are managed by [Enegic](https://enegic.com/) module
 
 ## Charger
@@ -19,4 +19,11 @@ IP: 192.168.250.1
 
 ## Load balancing
 
-- Model: Enegic  
+- Model: Enegic
+
+## Cost
+
+Total cost 18 450 sek, including government rebate of 14 360 sek on the material.
+
+- Knr: 1999
+- Fnr: KF21 - 7247
